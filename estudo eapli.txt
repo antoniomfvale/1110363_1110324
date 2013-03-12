@@ -1,4 +1,2 @@
 Controlo de versões
-Git
-OpenUP
-ghtyjkli
+OpenUPghtyjkli
